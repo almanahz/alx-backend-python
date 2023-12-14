@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Async
 
 This project contains tasks for learning to use asynchronous code in Python 3.
@@ -21,3 +22,13 @@ This project contains tasks for learning to use asynchronous code in Python 3.
 
 + [x] 4. **Tasks**<br/>[4-tasks.py](4-tasks.py) contains a script that meets the following requirements:
   + Take the code from `wait_n` and alter it into a new function `task_wait_n`. The code is nearly identical to `wait_n` except `task_wait_random` is being called.
+=======
+Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+async and await syntax
+How to execute an async program with asyncio
+How to run concurrent coroutines
+How to create asyncio tasks
+How to use the random module
+>>>>>>> db6382f7d51c33cbf0802e8bc1360236ae5af23a
